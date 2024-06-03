@@ -1,0 +1,36 @@
+{
+  "build": "h2eaa2aa_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "vs2015_runtime >=14.29.30133"
+  ],
+  "extracted_package_dir": "C:\\Users\\sborgave\\Anaconda3\\pkgs\\vc-14.2-h2eaa2aa_1",
+  "features": "",
+  "files": [
+    ".nonadmin"
+  ],
+  "fn": "vc-14.2-h2eaa2aa_1.tar.bz2",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "C:\\Users\\sborgave\\Anaconda3\\pkgs\\vc-14.2-h2eaa2aa_1",
+    "type": 1
+  },
+  "md5": "e509c495aaa92d767d554cd43a990ee5",
+  "name": "vc",
+  "package_tarball_full_path": "C:\\Users\\sborgave\\Anaconda3\\pkgs\\vc-14.2-h2eaa2aa_1.tar.bz2",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "906048f3b1dc326b367a08edc91816ff523b5f06cd45d985b4dbb7cfe8017559",
+  "size": 8900,
+  "subdir": "win-64",
+  "timestamp": 1715797316229,
+  "track_features": "vc14",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/vc-14.2-h2eaa2aa_1.tar.bz2",
+  "version": "14.2"
+}
